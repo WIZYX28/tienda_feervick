@@ -32,7 +32,7 @@
 
 		if(isset($_GET["ruta"])){
 
-			$rutas = explode("/", $_GET["ruta"]);
+			$rutas = explode("/tienda/frontend", $_GET["ruta"]);
 
 			$ruta = $rutas[0];
 
