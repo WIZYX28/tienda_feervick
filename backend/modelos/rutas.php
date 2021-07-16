@@ -8,7 +8,7 @@ class Ruta{
 
 	public function ctrRuta(){
 
-		return "http://localhost:8080/pruebaLocal/frontend/";
+		return "https://feervick.com.mx/tienda/frontend/";
 	
 	}
 
@@ -18,7 +18,7 @@ class Ruta{
 
 	public function ctrRutaServidor(){
 
-		return "http://localhost:8080/pruebaLocal/backend/";
+		return "https://feervick.com.mx/tienda/backend/";
 	
 	}
 
