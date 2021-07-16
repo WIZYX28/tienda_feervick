@@ -8,7 +8,7 @@ class Ruta{
 
 	public function ctrRuta(){
 
-		return "https://feervick.com.mx/tienda/frontend/";
+		return "https://www.feervick.com.mx/tienda/frontend/";
 	
 	}
 
@@ -18,7 +18,7 @@ class Ruta{
 
 	public function ctrRutaServidor(){
 
-		return "https://feervick.com.mx/tienda/backend/";
+		return "https://www.feervick.com.mx/tienda/backend/";
 	
 	}
 
